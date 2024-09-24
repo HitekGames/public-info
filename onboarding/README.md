@@ -5,11 +5,11 @@ At any stage of your development and participation in the project, don't neglect
 
 ## /design
 A subsection for design-related educational materials.  
-For those with little experience, start with this [file](design/design_first_step.md).
+For those with little experience, start with this [file](design/courses/design_first_step.md).
 
 ## /dev
 A subsection for development-related educational materials.  
-For those with little experience, start with this [file](dev/dev_first_step.md).
+For those with little experience, start with this [file](dev/unity/dev_first_step.md).
 
 ## /general
 A subsection for general tutorials.  

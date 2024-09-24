@@ -12,3 +12,9 @@ https://www.youtube.com/watch?v=WYfM3JyAVeM
 
 LevelDesign in Unity
 https://www.youtube.com/playlist?list=PLyibVrHety2eZkJMSpBpGWHn85HZLHTfu
+
+Visual Effect  
+https://www.youtube.com/playlist?list=PLa9AGuj5_INm30UyIH-n3hmlQ1soCmgFD  
+
+Design documents  
+https://www.youtube.com/watch?v=xccxmytvnC4  
