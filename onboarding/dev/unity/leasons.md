@@ -36,3 +36,6 @@ https://www.youtube.com/playlist?list=PLxrXqjtPtROQjRGPLBgfgIo9TC7hVV8Fd
 
 3D шутер c мультиплеером в Unit  
 https://www.youtube.com/playlist?list=PLSTiO55kxoAUxxn7oumKBQ7R5BLKHzWzv
+
+Взаимодействие с объектами (включение/выключение света и открытие/закрытие дверей) в Unity  
+https://www.youtube.com/watch?v=vfPkfj69UWA&t=424s

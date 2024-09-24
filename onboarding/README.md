@@ -14,3 +14,7 @@ For those with little experience, start with this [file](dev/unity/dev_first_ste
 ## /general
 A subsection for general tutorials.  
 Recommended for everyone to familiarize themselves with.
+
+## Start from ZERO  
+ - [Design](design/designer_from_zero.md)  
+ - [Design](dev/developer_from_zero.md)  
