@@ -28,3 +28,8 @@ To add your public SSH key to GitHub, follow these steps:
 - Click the "Add key" button.
 
 After these steps, your SSH key will be added to your GitHub account, and you can use SSH to interact with repositories on GitHub.
+
+# If not work for new account (ssh key alredy in use)
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
+
